@@ -4,7 +4,7 @@ Simulation of an advanced sensor fusion module for **ADAS (Advanced Driver Assis
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project focuses on simulating a **sensor fusion module** for ADAS applications.  
 The system integrates multiple sensors to improve vehicle perception, enhancing safety and decision-making in automotive environments.
@@ -17,7 +17,7 @@ The system integrates multiple sensors to improve vehicle perception, enhancing 
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ### Software Stack
 - **MATLAB/Simulink:** Main simulation environment  
@@ -34,7 +34,7 @@ The system integrates multiple sensors to improve vehicle perception, enhancing 
 
 ---
 
-## 🔧 Implementation Steps
+##  Implementation Steps
 1. Set up sensor models in Simulink.  
 2. Configure fusion algorithms using Sensor Fusion Toolbox.  
 3. Simulate different driving scenarios (e.g., urban, highway).  
@@ -43,11 +43,11 @@ The system integrates multiple sensors to improve vehicle perception, enhancing 
 
 ---
 
-## 📄 Documentation
+##  Documentation
 
 For full technical details, simulation models, and implementation guide:
 
-[📄 Download Project Documentation (PDF)](#)
+[ Download Project Documentation (PDF)](#)
 
 The documentation includes:
 - System architecture and Simulink model descriptions  
@@ -57,7 +57,7 @@ The documentation includes:
 
 ---
 
-## 📞 Support & Contact
+##  Support & Contact
 
 For questions, guidance, or collaboration, feel free to contact me.
 
